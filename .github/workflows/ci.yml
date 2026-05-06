@@ -21,8 +21,11 @@ jobs:
       - name: Installer les dépendances
         run: npm install
       
-      - name: Lancer ESLint
-        run: npx eslint index.js
+      - name: Lancer ESLint sur le code propre
+        run: npx eslint app.js
+      
+      - name: Lancer les tests
+        run: npm test
       
       - name: Analyse SonarCloud
         uses: SonarSource/sonarcloud-github-action@master
