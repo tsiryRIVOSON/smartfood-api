@@ -1,0 +1,15 @@
+{
+  "name": "smartfood-api",
+  "version": "1.0.0",
+  "description": "API SmartFood - Projet qualimétrie",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Aucun test pour le moment\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
