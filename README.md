@@ -42,7 +42,7 @@ Ce projet a été réalisé dans le cadre d'un TP de **Qualimétrie et Dette Tec
 |-----|------|
 | **Tsiry Nomenjanahary RIVOSON** | Structure du projet, configuration, refactoring |
 | **ANDRIANJAKA Anjarasoa Fitahiana** | Ajout du README / documentation du projet |
-| **RAINIKALA Takoza Jean Christelos** | Pipeline CI/CD et configuration ESLint/SonarCloud |
+| **RAINIKALA Takoza Jean Christelos** | créer l'interface de test graphique (test.html) |
 
 
 
